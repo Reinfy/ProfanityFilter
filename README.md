@@ -1,6 +1,6 @@
 <h1 align=center>ProfanityFilter 🤐</h1>
 <p align=center>
-<a href="https://poggit.pmmp.io/p/ProfanityFilter"><img src="https://github.com/ReinfyTeam/ProfanityFilter/blob/main/ProfanityFilter.png" align="center" size="200"></a><br>
+<a href="https://poggit.pmmp.io/p/ProfanityFilter"><img src="https://github.com/Reinfy/ProfanityFilter/blob/main/ProfanityFilter.png" align="center" size="200"></a><br>
 A best <b>profanity filter</b> for pocketmine.<br>Controls <b>hate speech and blocks bad words</b> in certain on the chat.</p>
 <p align=right>Made with ❤ by <a href="https://github.com/ReinfyTeam">ReinfyTeam</a></p>
 
@@ -20,7 +20,7 @@ Do you want to <b>punish</b> them after <b>many times of attempts?</b><br><br>
 
 <h1 align="center">Report Bugs/Issue</h1>
 <list>
-<li>Create an issue on <a href="https://github.com/ReinfyTeam/ProfanityFilter/issues/new">github</a>.</li>
+<li>Create an issue on <a href="https://github.com/Reinfy/ProfanityFilter/issues/new">github</a>.</li>
 <li>Upload the <code>backtrace</code> or </code>crashdump</code> about the issue.</li>
 <li>Upload atleast screenshots or videos.</li>
 <li>Be patient for support request.</li>
