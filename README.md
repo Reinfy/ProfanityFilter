@@ -1,3 +1,7 @@
+<hr>
+<p align="center">:warning: <a href="https://github.com/ReinfyTeam/ProfanityFilter">ProfanityFilter</a> (ReinfyTeam Organization) has now migrated work with this plugin. :warning:</p>
+<hr>
+
 <h1 align=center>ProfanityFilter 🤐</h1>
 <p align=center>
 <a href="https://poggit.pmmp.io/p/ProfanityFilter"><img src="https://github.com/Reinfy/ProfanityFilter/blob/main/ProfanityFilter.png" align="center" size="200"></a><br>
